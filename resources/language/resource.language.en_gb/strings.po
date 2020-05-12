@@ -393,7 +393,7 @@ msgid "Enable DolbyVision profiles"
 msgstr ""
 
 msgctxt "#30100"
-msgid "Results for \"{}\""
+msgid "Results for '{}'"
 msgstr ""
 
 msgctxt "#30101"
@@ -715,7 +715,7 @@ msgid "There has been a problem with login, it is possible that your account has
 msgstr ""
 
 msgctxt "#30181"
-msgid "Disable subtitles if there are no forced subtitles streams (Works only if Kodi Player is set to \"Only forced\" subtitles)"
+msgid "Disable subtitles if there are no forced subtitles streams (Works only if Kodi Player is set to 'Only forced' subtitles)"
 msgstr ""
 
 msgctxt "#30182"
@@ -883,7 +883,7 @@ msgid "Kid account"
 msgstr ""
 
 msgctxt "#30223"
-msgid "Synchronization now uses \"My List\" of profile {}"
+msgid "Synchronization now uses 'My List' of profile {}"
 msgstr ""
 
 msgctxt "#30224"
@@ -903,7 +903,7 @@ msgid "Synchronize Kodi library with My List"
 msgstr ""
 
 msgctxt "#30228"
-msgid "Use \"My list\" of the current profile"
+msgid "Use 'My list' of the current profile"
 msgstr ""
 
 msgctxt "#30229"
